@@ -1,1 +1,2 @@
 Aynı klasörde iki dosya deneme
+local harici deneme
