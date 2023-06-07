@@ -2,3 +2,8 @@
 1-Çalışacağımız klasörü seçip yada yeni bir klasör oluşturup, klasörün yolunu gösteren bölüme cmd yazıp
 enter yapıp açmış olduğumuz klasörün yolunda terminalimizi açmış oluruz
 2-Ve bu dizinde açılan terminale 'git init' yazarız, initilaze empty git repository yazısını gördüğümüzde bu çalışma alanımızda boş bir repository oluşturmuş oluruz 
+3-Git init yaptıktan sonraki çalışma alanımızın ismine Working space denir.
+4-'git add .' komutuyla working space teki kodlarımızı Staging area dediğimiz bekleme alanına taşırız
+5-'git commit -m"versiyon adı"' kodunu yazarak stage'deki kodlarımızdan versiyon oluşturmuş oluruz.
+6-working space ve stage de kodlarımızın durumunu görmek için 'git status' kodunu kullanırız
+7-commit store (versiyon oluşturduğumuz yer) daki versiyonlarımızı görmek için de 'git log --oneline' komutunu kullanırız.
