@@ -14,3 +14,5 @@ enter yapıp açmış olduğumuz klasörün yolunda terminalimizi açmış oluru
 Aynı şekilde adresi tanımladığımız için sadece git push komutu ilede kodlarımızı gönderebiliriz
 
 ---2.DERS----Restore/Branch/Stash komutları
+1-Working Space ve Staging Area daki yapmış olduğumuz değişiklikleri geri alabiliriz.Working Space de yaptığımız bir güncellemeyi geri almak için "git restore ." komutu ile yapılan değişiklikleri geri alabiliriz. Eğer Stageden geri almak istersek "git restore --staged ." komutuyla Working Space e alırız
+2-Yazdıklarımızı WS ve SA dan kaldırmak istersek "git reset --hard" komutunu kullanırız
