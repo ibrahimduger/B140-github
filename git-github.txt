@@ -12,3 +12,5 @@ enter yapıp açmış olduğumuz klasörün yolunda terminalimizi açmış oluru
 10-Localimizde ilişkendirdiğimiz adresi git remote -v komutuyla görebiliriz.
 11-Github tarafında yaptığımız bir değişlik olursa adresi bir kerelik tanımladığımız için sadece git pull yapmamız yeterlidir.
 Aynı şekilde adresi tanımladığımız için sadece git push komutu ilede kodlarımızı gönderebiliriz
+
+---2.DERS----Restore/Branch/Stash komutları
