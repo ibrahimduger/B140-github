@@ -1,3 +1,4 @@
 Aynı klasörde iki dosya deneme
 local harici deneme
 ibrahim branch i yeni güncelleme
+ibrahim branch 2 . güncelleme
